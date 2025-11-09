@@ -12,7 +12,7 @@ Farmers in many regions face major hurdles:
 - ❌ Lack of direct connection and trust with consumers
 - ❌ No centralized online platform to market their goods
 
----
+--
 
 ## ✅ Solution
 
