@@ -46,7 +46,3 @@ Farmers in many regions face major hurdles:
 | 🛠️ Admin   | Manage users, products, order requests, and categories via dashboard              |
 | 🔐 Auth    | Role-based access control                                                         |
 
----
----
-
-> Built with ❤️ by Team  CodeX | **VIT Web Development Hackathon** Winner at the Vellore Institute of Technology🏆
