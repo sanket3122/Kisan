@@ -3,19 +3,6 @@
 
 **AgriLink** is a full-stack web application developed to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
-## ❗ The Problem (That Needs to Be Solved)
-
-Farmers in many regions face major hurdles:
-
-- ❌ Limited or no digital presence
-- ❌ Dependence on middlemen who reduce their profit margins
-- ❌ Lack of direct connection and trust with consumers
-- ❌ No centralized online platform to market their goods
-
---
-
-## ✅ Solution
-
 **AgriLink** directly addresses these issues by offering:
 
 - 🌾 **Farmer Profiles** — Showcase farm products, locations, and background
@@ -45,4 +32,20 @@ Farmers in many regions face major hurdles:
 | 🛒 Consumer | Browse listings, search by category, message farmers, request orders               |
 | 🛠️ Admin   | Manage users, products, order requests, and categories via dashboard              |
 | 🔐 Auth    | Role-based access control                                                         |
+
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/1.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/2.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/3.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/4.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/5.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/6.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/7.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/8.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/sanket3122/Kisan//refs/heads/main/screenshots/9.png" width="600"/><br/>
+</p>
 
