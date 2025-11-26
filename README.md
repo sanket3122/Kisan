@@ -2,7 +2,7 @@
 
 
 **AgriLink** is a full-stack web application developed to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
-
+ 
 **AgriLink** directly addresses these issues by offering:
 
 - 🌾 **Farmer Profiles** — Showcase farm products, locations, and background
